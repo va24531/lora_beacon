@@ -1,4 +1,4 @@
-# lora_beacon
+# LoRA Basic TX/RX Beacon Test
 Radiohead RF95 LORA Beacon Transmitter &amp; Receiver for 32U4 controllers - 915Mhz!!!
 
 Full code (VERY BASIC) for uploading to 32u4's to enable long range, slow speed LoRA packets.
